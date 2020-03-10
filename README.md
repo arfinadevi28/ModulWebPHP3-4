@@ -71,5 +71,12 @@ dimodulus dengan 4 akan menghasilkan nilai 0. Jika TRUE maka $kabisat akan beris
 ![Alt Text](https://github.com/arfinadevi28/ModulWebPHP3-4/blob/master/modul4Luasb.PNG)
 
 # Tugas praktikum data siswa
-![Alt Text](
-![Alt Text](
+![Alt Text](https://github.com/arfinadevi28/ModulWebPHP3-4/blob/master/01.PNG)
+
+masukkan data anda
+
+![Alt Text](https://github.com/arfinadevi28/ModulWebPHP3-4/blob/master/simpan.PNG)
+
+berikut hasinnyaa
+
+![Alt Text](https://github.com/arfinadevi28/ModulWebPHP3-4/blob/master/2.PNG)
